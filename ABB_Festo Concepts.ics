@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Gilpin, Kenny";RSVP=FALSE:mailto:kenny.gilpin@festo.com
+ATTENDEE;CN="Greatwood, Colin";RSVP=FALSE:mailto:colin.greatwood@festo.com
+ATTENDEE;CN="Lenzi, Robert";RSVP=FALSE:mailto:robert.lenzi@festo.com
+ATTENDEE;CN="Thomas B. Cairo";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:thomas
+	.b.cairo@us.abb.com
+ATTENDEE;CN="Michael Mollan";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:michael
+	.mollan@us.abb.com
+ATTENDEE;CN="Shawn M. Fisher";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:shawn.
+	m.fisher@us.abb.com
+ATTENDEE;CN="Anton J. Hummel";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:anton.
+	j.hummel@us.abb.com
+ATTENDEE;CN="Brandon Pilette";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:brando
+	n.pilette@us.abb.com
+ATTENDEE;CN="Bret D. Davis";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:bret.d.d
+	avis@us.abb.com
+ATTENDEE;CN="Bruno G. Barrey";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:bruno.
+	g.barrey@us.abb.com
+ATTENDEE;CN="Carrie M. Yaklin";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:carri
+	e.m.yaklin@us.abb.com
+ATTENDEE;CN="Craig Lott";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:craig.lott@
+	us.abb.com
+ATTENDEE;CN="David C. Comaty";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:david.
+	c.comaty@us.abb.com
+ATTENDEE;CN="Devin M. Spaulding";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:dev
+	in.spaulding@us.abb.com
+ATTENDEE;CN="Douglas R. Gobert";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:doug
+	las.r.gobert@us.abb.com
+ATTENDEE;CN="Francesco Pacecca";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:fran
+	cesco.pacecca@us.abb.com
+ATTENDEE;CN="James Wallace";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:james.wa
+	llace@us.abb.com
+ATTENDEE;CN="Jeremy Finan";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:jeremy.fi
+	nan@us.abb.com
+ATTENDEE;CN="John T. Benjamin";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:john.
+	t.benjamin@us.abb.com
+ATTENDEE;CN="Jonathan Belcher";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:jonat
+	han.belcher@us.abb.com
+ATTENDEE;CN="Jose Fernandez-Gutierrez";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mail
+	to:jose.fernandez-gutierrez@us.abb.com
+ATTENDEE;CN="Karl L. Buchholz";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:karl.
+	l.buchholz@us.abb.com
+ATTENDEE;CN="Kevin Dressig";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:kevin.dr
+	essig@us.abb.com
+ATTENDEE;CN="Kyle Herr";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:kyle.herr@us
+	.abb.com
+ATTENDEE;CN="Luke Helmstetter";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:luke.
+	helmstetter@us.abb.com
+ATTENDEE;CN="Mike A. Brickler";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:mike.
+	a.brickler@us.abb.com
+ATTENDEE;CN="Nicholas Lipcsik";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:nicho
+	las.lipcsik@us.abb.com
+ATTENDEE;CN="Paul F. Shenkosky";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:paul
+	.f.shenkosky@us.abb.com
+ATTENDEE;CN="Richelle E. Daley";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:rich
+	elle.e.daley@us.abb.com
+ATTENDEE;CN="Rupesh Prusty";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:rupesh.p
+	rusty@us.abb.com
+ATTENDEE;CN="Scott R. Miller";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:scott.
+	r.miller@us.abb.com
+ATTENDEE;CN="Stephen E. Walter";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:step
+	hen.e.walter@us.abb.com
+ATTENDEE;CN="Steven D. Weiland";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:stev
+	en.d.weiland@us.abb.com
+ATTENDEE;CN="Steven S. Schippel";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:ste
+	ven.s.schippel@us.abb.com
+ATTENDEE;CN="Sven Oltmanns";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:sven.olt
+	manns@us.abb.com
+ATTENDEE;CN="Tom D. Callewaert";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:tom.
+	d.callewaert@us.abb.com
+ATTENDEE;CN="Tony W. Roth";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:tony.w.ro
+	th@us.abb.com
+ATTENDEE;CN="Trygve Amundsen";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:trygve
+	.amundsen@us.abb.com
+ATTENDEE;CN="Vijil Viswambharan";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:vij
+	il.viswambharan@us.abb.com
+ATTENDEE;CN="Ashley Murray";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:ashley.m
+	urray@us.abb.com
+ATTENDEE;CN="Jason Cairo";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:jason.cair
+	o@us.abb.com
+ATTENDEE;CN="Arnold Bell";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:arnold.bel
+	l@us.abb.com
+ATTENDEE;CN="Matthew D. Cowles";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:matt
+	hew.d.cowles@us.abb.com
+ATTENDEE;CN=invite@ilobby.com;ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:invite
+	@ilobby.com
+CLASS:PUBLIC
+CREATED:20260603T035621Z
+DESCRIPTION:CAUTION: This e-mail is from an external sender. Do not click l
+	inks\, open attachments or provide your password\, unless you know the con
+	tent is safe! If unsure\, report the e-mail using the Outlook button.\n\n\
+	n  <https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvisi
+	tor.facilityos.com%2Fevents%2F%23%2Fedit%2F2f2d56b6910f4e92a600eb4482108a3
+	e%3Fextension%3DinternalEventId%3A2f2d56b6-910f-4e92-a600-eb4482108a3e&dat
+	a=05%7C02%7Ccolin.greatwood%40festo.com%7Ce132223f97ff47e7ca3608debce19d42
+	%7Ca1ae89fb21b940bf9d82a10ae85a2407%7C0%7C0%7C639155874356172620%7CUnknown
+	%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiI
+	sIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=eRpU5uFBOt8XiWzUxq5z0
+	v1cATx3BjZz%2BVLCh7kDMWY%3D&reserved=0>  \n\n
+DTEND;TZID="Eastern Standard Time":20260708T095000
+DTSTAMP:20260528T175024Z
+DTSTART;TZID="Eastern Standard Time":20260708T090000
+LAST-MODIFIED:20260603T035621Z
+LOCATION:ABB Cafe
+ORGANIZER;CN="James R. Vigneau":mailto:james.r.vigneau@us.abb.com
+PRIORITY:5
+RECURRENCE-ID;TZID="Eastern Standard Time":20260708T090000
+SEQUENCE:12
+SUMMARY:ABB/Festo Concepts
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000403FB3ABE6A7DC01000000000000000
+	0100000009A7248EF0FC9FE48A6B70988D8312791
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)">\n<style><!--\n/* Font
+	 Definitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4
+	 5 3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5
+	 2 2 2 4 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definition
+	s */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-si
+	ze:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyper
+	link\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underl
+	ine\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChpDe
+	fault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatures
+	:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1
+	.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[i
+	f gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml
+	><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:id
+	map v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]-->\n</head>\
+	n<body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:break-
+	word">\n<table style="width: 100%\; display: block !important\;">\n<tbody 
+	style="display: block !important\;">\n<tr style="display: block !important
+	\;">\n<td style="text-align: center\; color: white\; font-family: &quot\;A
+	rial&quot\;\,sans-serif\; font-size: 15px\; background-color: #FF9600\; di
+	splay: block !important\; ">\n<div style="display: block !important\;">\n<
+	div style="text-align: center !important\; color: white !important\; font-
+	family: &quot\;Arial&quot\;\,sans-serif !important\; font-size: 15px !impo
+	rtant\; background-color: #FF9600 !important\; display: block !important\;
+	">\n<strong style="display: inline !important\;">CAUTION: This e-mail is f
+	rom an external sender. Do not click links\, open attachments or provide y
+	our password\, unless you know the content is safe! If unsure\, report the
+	 e-mail using the Outlook button.</strong></div>\n</div>\n</td>\n</tr>\n</
+	tbody>\n</table>\n<br>\n<div>\n<div class="WordSection1">\n<div>\n<div>\n<
+	div>\n<div>\n<div>\n<div>\n<div>\n<p class="MsoNormal"><span style="displa
+	y:none"><a href="https://eur01.safelinks.protection.outlook.com/?url=https
+	%3A%2F%2Fvisitor.facilityos.com%2Fevents%2F%23%2Fedit%2F2f2d56b6910f4e92a6
+	00eb4482108a3e%3Fextension%3DinternalEventId%3A2f2d56b6-910f-4e92-a600-eb4
+	482108a3e&amp\;data=05%7C02%7Ccolin.greatwood%40festo.com%7Ce132223f97ff47
+	e7ca3608debce19d42%7Ca1ae89fb21b940bf9d82a10ae85a2407%7C0%7C0%7C6391558743
+	56172620%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwM
+	CIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdat
+	a=eRpU5uFBOt8XiWzUxq5z0v1cATx3BjZz%2BVLCh7kDMWY%3D&amp\;reserved=0" origin
+	alsrc="https://visitor.facilityos.com/events/#/edit/2f2d56b6910f4e92a600eb
+	4482108a3e?extension=internalEventId:2f2d56b6-910f-4e92-a600-eb4482108a3e"
+	>&nbsp\;</a>\n</span><span style="font-family:&quot\;Aptos&quot\;\,sans-se
+	rif"><o:p></o:p></span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div
+	>\n</div>\n</div>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:13
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
